@@ -1,0 +1,15 @@
+{
+  "name": "Node.js Callback Hell ",
+  "version": "1.0.0",
+  "description": "Managing Node.js Callback Hell with async and bluebird",
+  "main": "callbackhell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tittaya Mairittha <callmefons@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "bluebird": "^3.3.1"
+  }
+}
